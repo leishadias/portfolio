@@ -245,19 +245,19 @@ section:nth-child(2n){
 		
 .percent-orange{
 	height: inherit;
-	background-color: orange;
+	background-color: rgb(128, 45, 29);
 }
 .percent-green{
 	height: inherit;
-	background-color: rgb(72, 195, 72);
+	background-color: rgb(159, 73, 56);
 }
 .percent-coral{
 	height: inherit;
-	background-color: coral;
+	background-color: rgb(104, 30, 15);
 }
 .percent-yellow{
 	height: inherit;
-	background-color: rgb(108, 79, 158);
+	background-color: rgb(210, 113, 94);
 }
 
 /*experience*/
