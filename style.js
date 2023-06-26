@@ -1,4 +1,4 @@
-var nav = document.querySelectorAll('nav a');
+var nav = document.querySelectorAll('.nav-scroll');
 var skillbars = document.getElementsByClassName('skill-percent');
 
 var scrollId;
